@@ -1,3 +1,4 @@
+<?php require_once("header.php"); ?>
 
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
